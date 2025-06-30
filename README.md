@@ -22,11 +22,11 @@ Showcase of prediction models including League of Legends Win/Loss Prediction, S
 - **Results**: ~56% accuracy
 
 ### MNIST Dataset CNN Prediction Model
--**Dataset**: MNIST
--**Goal**: Image Classification
--**Methods**: Convolutional Neural Net
--**Tools**: PyTorch, MNIST, numpy, torchvision
--**Results**: ~97% Accuracy
+- **Dataset**: MNIST
+- **Goal**: Image Classification
+- **Methods**: Convolutional Neural Net
+- **Tools**: PyTorch, MNIST, numpy, torchvision
+- **Results**: ~97% Accuracy
 
 ## How to Run
 1. Clone this repository  
