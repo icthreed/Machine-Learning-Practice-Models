@@ -28,9 +28,9 @@ Showcase of prediction models including League of Legends Win/Loss Prediction, S
 - **Tools**: PyTorch, MNIST, numpy, torchvision
 - **Results**: ~97% Accuracy
 
-## How to Run
-1. Clone this repository  
-2. Install dependencies: 
-
-## Summary Results
-A brief presentation of the Stroke Prediction model results is included in `Stroke_Prediction_Results.pptx`.
+### CNN Tumor Prediction
+- **Dataset**: Kaggle
+- **Goal**: Image Classification
+- **Methods**: Convolutional Neural Net
+- **Tools**: PyTorch, MNIST, numpy, torchvision
+- **Results**: ~88% Accuracy
