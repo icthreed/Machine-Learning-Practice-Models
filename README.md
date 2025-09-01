@@ -4,6 +4,14 @@ Showcase of prediction models including League of Legends Win/Loss Prediction, S
 
 ## Projects
 
+### U-Net CNN Tumor Segmentation (2025y/09m/01d)
+- **Dataset**: Kaggle
+- **Goal**: Image Segmentation
+- **Methods**: U-Net Convolutional Neural Net
+- **Tools**: PyTorch, MNIST, numpy, torchvision
+- **Files**: Tumor_Segmentation_CNN.ipynb, Tumor_Segmentation_best.pth
+- **Results**: ~70% Balanced Accuracy, DICE = .04, IOU = .02 
+
 ### CNN Tumor Prediction (2025y/07m/11d)
 - **Dataset**: Kaggle
 - **Goal**: Image Classification
